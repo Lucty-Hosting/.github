@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LIEN_DU_LOGO" width="140" alt="LUCTY" />
+<img src="https://raw.githubusercontent.com/Lucty-Hosting/.github/main/assets/logo.webp" width="140" alt="LUCTY" />
 
 # LUCTY Hosting
 
