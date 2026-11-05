@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LIEN_DU_LOGO" width="140" alt="LUCTY" />
+<img src="3b740e34bab74aeab29dbf3ef97f2f1e.webp" width="140" alt="LUCTY" />
 
 # LUCTY Hosting
 
